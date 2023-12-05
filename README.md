@@ -6,7 +6,7 @@ Guimera, R, Reichardt, I, Aguilar-Mogas, A, Massucci, FA, Miranda, M, Pallares, 
 
 # Tutorial 
 
-This tutorial illustrates how to program a Bayesian machine scientist, using the code provided here. The tutorial assumes general knowledge of Python programming. We start by importing all necessary Python modules:
+This tutorial illustrates how to program a Bayesian machine scientist using the code provided here. The tutorial assumes general knowledge of Python programming. We start by importing all necessary Python modules:
 
 
 ```python
